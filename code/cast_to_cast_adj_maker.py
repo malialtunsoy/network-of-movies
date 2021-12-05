@@ -66,11 +66,11 @@ for source in cast:
 
 f = open('data/csv/cast_to_cast.csv', 'w', newline='')
 writer = csv.writer(f)
-header=["Source", "Target", "Weight"]
+header=["Source", "Target", "Weight", "Label"]
 writer.writerow(header)
 for source_actor in cast:
     for target_actor in cast:
         if source_to_target[source_actor][target_actor]>0:
-            line = [source_actor, target_actor , str(source_to_target[source_actor][target_actor])]
+            line = [source_actor, target_actor , str(source_to_target[source_actor][target_actor]), str(source_to_target[source_actor][target_actor])]
             writer.writerow(line)
 f.close()

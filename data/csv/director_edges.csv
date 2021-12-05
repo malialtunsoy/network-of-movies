@@ -1,0 +1,109 @@
+Source,Target,Weight,Label
+Frank Darabont,Francis Ford Coppola,1,1
+Frank Darabont,Christopher Nolan,3,3
+Frank Darabont,Steven Spielberg,2,2
+Frank Darabont,Peter Jackson,1,1
+Frank Darabont,David Fincher,4,4
+Frank Darabont,Robert Zemeckis,2,2
+Frank Darabont,Martin Scorsese,2,2
+Frank Darabont,Milos Forman,1,1
+Frank Darabont,Roman Polanski,1,1
+Frank Darabont,Bryan Singer,1,1
+Frank Darabont,Damien Chazelle,1,1
+Frank Darabont,Ridley Scott,1,1
+Francis Ford Coppola,Frank Darabont,1,1
+Francis Ford Coppola,Sidney Lumet,1,1
+Francis Ford Coppola,Peter Jackson,1,1
+Francis Ford Coppola,Robert Zemeckis,1,1
+Francis Ford Coppola,Martin Scorsese,4,4
+Francis Ford Coppola,Jonathan Demme,1,1
+Francis Ford Coppola,Luc Besson,1,1
+Francis Ford Coppola,Bryan Singer,1,1
+Francis Ford Coppola,Alfred Hitchcock,1,1
+Christopher Nolan,Frank Darabont,3,3
+Christopher Nolan,Steven Spielberg,2,2
+Christopher Nolan,Peter Jackson,3,3
+Christopher Nolan,David Fincher,2,2
+Christopher Nolan,Martin Scorsese,4,4
+Christopher Nolan,Jonathan Demme,1,1
+Christopher Nolan,Luc Besson,2,2
+Christopher Nolan,Roman Polanski,1,1
+Christopher Nolan,Bryan Singer,1,1
+Christopher Nolan,Damien Chazelle,3,3
+Christopher Nolan,Ridley Scott,2,2
+Sidney Lumet,Francis Ford Coppola,1,1
+Sidney Lumet,Sergio Leone,1,1
+Sidney Lumet,Alfred Hitchcock,1,1
+Steven Spielberg,Frank Darabont,2,2
+Steven Spielberg,Christopher Nolan,2,2
+Steven Spielberg,David Fincher,1,1
+Steven Spielberg,Robert Zemeckis,1,1
+Steven Spielberg,Martin Scorsese,1,1
+Steven Spielberg,Roman Polanski,5,5
+Steven Spielberg,Roger Allers-Rob Minkoff,1,1
+Peter Jackson,Frank Darabont,1,1
+Peter Jackson,Francis Ford Coppola,1,1
+Peter Jackson,Christopher Nolan,3,3
+Peter Jackson,Lana Wachowski-Lilly Wachowski,2,2
+Peter Jackson,Martin Scorsese,1,1
+Peter Jackson,Milos Forman,1,1
+Peter Jackson,Roman Polanski,1,1
+Peter Jackson,Alfred Hitchcock,1,1
+Peter Jackson,Charles Chaplin,1,1
+Quentin Tarantino,David Fincher,1,1
+Quentin Tarantino,Robert Zemeckis,1,1
+Quentin Tarantino,Martin Scorsese,1,1
+Quentin Tarantino,Bryan Singer,1,1
+Sergio Leone,Sidney Lumet,1,1
+David Fincher,Frank Darabont,4,4
+David Fincher,Christopher Nolan,2,2
+David Fincher,Steven Spielberg,1,1
+David Fincher,Quentin Tarantino,1,1
+David Fincher,Jonathan Demme,2,2
+David Fincher,James Cameron,1,1
+David Fincher,Bryan Singer,1,1
+Robert Zemeckis,Frank Darabont,2,2
+Robert Zemeckis,Francis Ford Coppola,1,1
+Robert Zemeckis,Steven Spielberg,1,1
+Robert Zemeckis,Quentin Tarantino,1,1
+Robert Zemeckis,Milos Forman,1,1
+Irvin Kershner,George Lucas,16,16
+Irvin Kershner,Hayao Miyazaki,1,1
+Lana Wachowski-Lilly Wachowski,Peter Jackson,2,2
+Martin Scorsese,Frank Darabont,2,2
+Martin Scorsese,Francis Ford Coppola,4,4
+Martin Scorsese,Christopher Nolan,4,4
+Martin Scorsese,Steven Spielberg,1,1
+Martin Scorsese,Peter Jackson,1,1
+Martin Scorsese,Quentin Tarantino,1,1
+Martin Scorsese,Milos Forman,1,1
+Milos Forman,Frank Darabont,1,1
+Milos Forman,Peter Jackson,1,1
+Milos Forman,Robert Zemeckis,1,1
+Milos Forman,Martin Scorsese,1,1
+Jonathan Demme,Francis Ford Coppola,1,1
+Jonathan Demme,Christopher Nolan,1,1
+Jonathan Demme,David Fincher,2,2
+George Lucas,Irvin Kershner,16,16
+Hayao Miyazaki,Irvin Kershner,1,1
+Luc Besson,Francis Ford Coppola,1,1
+Luc Besson,Christopher Nolan,2,2
+Roman Polanski,Frank Darabont,1,1
+Roman Polanski,Christopher Nolan,1,1
+Roman Polanski,Steven Spielberg,5,5
+Roman Polanski,Peter Jackson,1,1
+James Cameron,David Fincher,1,1
+Bryan Singer,Frank Darabont,1,1
+Bryan Singer,Francis Ford Coppola,1,1
+Bryan Singer,Christopher Nolan,1,1
+Bryan Singer,Quentin Tarantino,1,1
+Bryan Singer,David Fincher,1,1
+Alfred Hitchcock,Francis Ford Coppola,1,1
+Alfred Hitchcock,Sidney Lumet,1,1
+Alfred Hitchcock,Peter Jackson,1,1
+Roger Allers-Rob Minkoff,Steven Spielberg,1,1
+Charles Chaplin,Peter Jackson,1,1
+Damien Chazelle,Frank Darabont,1,1
+Damien Chazelle,Christopher Nolan,3,3
+Ridley Scott,Frank Darabont,1,1
+Ridley Scott,Christopher Nolan,2,2
