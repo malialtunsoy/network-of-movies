@@ -1,0 +1,145 @@
+Source,Target,Weight,Label
+The Shawshank Redemption,The Dark Knight,1,1
+The Shawshank Redemption,Inception,1,1
+The Shawshank Redemption,Se7en,2,2
+The Shawshank Redemption,The Green Mile,9,9
+The Shawshank Redemption,The Usual Suspects,1,1
+The Shawshank Redemption,The Departed,1,1
+The Godfather,The Godfather: Part II,26,26
+The Godfather,12 Angry Men,1,1
+The Godfather,Goodfellas,3,3
+The Godfather,The Usual Suspects,1,1
+The Godfather: Part II,The Godfather,26,26
+The Godfather: Part II,The Lord of the Rings: The Fellowship of the Ring,1,1
+The Godfather: Part II,The Lord of the Rings: The Two Towers,1,1
+The Godfather: Part II,Goodfellas,2,2
+The Godfather: Part II,The Silence of the Lambs,1,1
+The Godfather: Part II,The Green Mile,1,1
+The Godfather: Part II,Léon: The Professional,1,1
+The Godfather: Part II,Back to the Future,1,1
+The Dark Knight,The Shawshank Redemption,1,1
+The Dark Knight,The Lord of the Rings: The Return of the King,1,1
+The Dark Knight,Inception,7,7
+The Dark Knight,Goodfellas,1,1
+The Dark Knight,Se7en,1,1
+The Dark Knight,Saving Private Ryan,1,1
+The Dark Knight,Interstellar,7,7
+The Dark Knight,Léon: The Professional,1,1
+The Dark Knight,Whiplash,1,1
+The Dark Knight,Gladiator,1,1
+The Dark Knight,The Departed,1,1
+The Dark Knight,The Prestige,7,7
+12 Angry Men,The Godfather,1,1
+12 Angry Men,Psycho,1,1
+Schindler's List,Saving Private Ryan,5,5
+Schindler's List,The Pianist,5,5
+Schindler's List,The Lion King,1,1
+The Lord of the Rings: The Return of the King,The Dark Knight,1,1
+The Lord of the Rings: The Return of the King,The Lord of the Rings: The Fellowship of the Ring,42,42
+The Lord of the Rings: The Return of the King,The Lord of the Rings: The Two Towers,47,47
+The Lord of the Rings: The Return of the King,The Matrix,2,2
+The Lord of the Rings: The Return of the King,One Flew Over the Cuckoo's Nest,1,1
+Pulp Fiction,Goodfellas,1,1
+Pulp Fiction,Se7en,1,1
+Pulp Fiction,Back to the Future,1,1
+Pulp Fiction,The Usual Suspects,1,1
+Pulp Fiction,American History X,1,1
+The Lord of the Rings: The Fellowship of the Ring,The Godfather: Part II,1,1
+The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Return of the King,42,42
+The Lord of the Rings: The Fellowship of the Ring,Inception,1,1
+The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Two Towers,58,58
+The Lord of the Rings: The Fellowship of the Ring,The Matrix,1,1
+The Lord of the Rings: The Fellowship of the Ring,The Green Mile,1,1
+The Lord of the Rings: The Fellowship of the Ring,The Pianist,1,1
+Fight Club,Se7en,9,9
+Fight Club,The Silence of the Lambs,1,1
+Fight Club,The Green Mile,2,2
+Fight Club,The Lion King,1,1
+Fight Club,American History X,2,2
+Forrest Gump,Saving Private Ryan,1,1
+Forrest Gump,The Green Mile,2,2
+Forrest Gump,Back to the Future,5,5
+Inception,The Shawshank Redemption,1,1
+Inception,The Dark Knight,7,7
+Inception,The Lord of the Rings: The Fellowship of the Ring,1,1
+Inception,The Lord of the Rings: The Two Towers,1,1
+Inception,Interstellar,7,7
+Inception,The Green Mile,1,1
+Inception,Léon: The Professional,1,1
+Inception,The Pianist,1,1
+Inception,The Usual Suspects,1,1
+The Lord of the Rings: The Two Towers,The Godfather: Part II,1,1
+The Lord of the Rings: The Two Towers,The Lord of the Rings: The Return of the King,47,47
+The Lord of the Rings: The Two Towers,The Lord of the Rings: The Fellowship of the Ring,58,58
+The Lord of the Rings: The Two Towers,Inception,1,1
+The Lord of the Rings: The Two Towers,The Matrix,1,1
+The Lord of the Rings: The Two Towers,One Flew Over the Cuckoo's Nest,1,1
+The Lord of the Rings: The Two Towers,The Green Mile,1,1
+The Lord of the Rings: The Two Towers,The Pianist,1,1
+Star Wars: Episode V - The Empire Strikes Back,Star Wars: Episode IV - A New Hope,16,16
+Star Wars: Episode V - The Empire Strikes Back,Spirited Away,1,1
+The Matrix,The Lord of the Rings: The Return of the King,2,2
+The Matrix,The Lord of the Rings: The Fellowship of the Ring,1,1
+The Matrix,The Lord of the Rings: The Two Towers,1,1
+Goodfellas,The Godfather,3,3
+Goodfellas,The Godfather: Part II,2,2
+Goodfellas,The Dark Knight,1,1
+Goodfellas,Pulp Fiction,1,1
+Goodfellas,Interstellar,1,1
+One Flew Over the Cuckoo's Nest,The Lord of the Rings: The Return of the King,1,1
+One Flew Over the Cuckoo's Nest,The Lord of the Rings: The Two Towers,1,1
+One Flew Over the Cuckoo's Nest,The Green Mile,1,1
+Seven Samurai,Hara-Kiri,2,2
+Se7en,The Shawshank Redemption,2,2
+Se7en,The Dark Knight,1,1
+Se7en,Pulp Fiction,1,1
+Se7en,Fight Club,9,9
+Se7en,The Silence of the Lambs,1,1
+Se7en,Saving Private Ryan,1,1
+The Silence of the Lambs,The Godfather: Part II,1,1
+The Silence of the Lambs,Fight Club,1,1
+The Silence of the Lambs,Se7en,1,1
+The Silence of the Lambs,Interstellar,1,1
+Star Wars: Episode IV - A New Hope,Star Wars: Episode V - The Empire Strikes Back,16,16
+Saving Private Ryan,The Dark Knight,1,1
+Saving Private Ryan,Schindler's List,5,5
+Saving Private Ryan,Forrest Gump,1,1
+Saving Private Ryan,Se7en,1,1
+Interstellar,The Dark Knight,7,7
+Interstellar,Inception,7,7
+Interstellar,Goodfellas,1,1
+Interstellar,The Silence of the Lambs,1,1
+Spirited Away,Star Wars: Episode V - The Empire Strikes Back,1,1
+The Green Mile,The Shawshank Redemption,9,9
+The Green Mile,The Godfather: Part II,1,1
+The Green Mile,The Lord of the Rings: The Fellowship of the Ring,1,1
+The Green Mile,Fight Club,2,2
+The Green Mile,Forrest Gump,2,2
+The Green Mile,Inception,1,1
+The Green Mile,The Lord of the Rings: The Two Towers,1,1
+The Green Mile,One Flew Over the Cuckoo's Nest,1,1
+Léon: The Professional,The Godfather: Part II,1,1
+Léon: The Professional,The Dark Knight,1,1
+Léon: The Professional,Inception,1,1
+Hara-Kiri,Seven Samurai,2,2
+The Pianist,Schindler's List,5,5
+The Pianist,The Lord of the Rings: The Fellowship of the Ring,1,1
+The Pianist,Inception,1,1
+The Pianist,The Lord of the Rings: The Two Towers,1,1
+Back to the Future,The Godfather: Part II,1,1
+Back to the Future,Pulp Fiction,1,1
+Back to the Future,Forrest Gump,5,5
+The Usual Suspects,The Shawshank Redemption,1,1
+The Usual Suspects,The Godfather,1,1
+The Usual Suspects,Pulp Fiction,1,1
+The Usual Suspects,Inception,1,1
+Psycho,12 Angry Men,1,1
+The Lion King,Schindler's List,1,1
+The Lion King,Fight Club,1,1
+American History X,Pulp Fiction,1,1
+American History X,Fight Club,2,2
+Whiplash,The Dark Knight,1,1
+Gladiator,The Dark Knight,1,1
+The Departed,The Shawshank Redemption,1,1
+The Departed,The Dark Knight,1,1
+The Prestige,The Dark Knight,7,7
