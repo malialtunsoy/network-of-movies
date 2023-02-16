@@ -5,3 +5,5 @@ following:
 - Cluster similar movies in terms of their cast and director.
 - Analyze the actors performed in the top 50 movies and create their network.
 - Analyze the directors who shot the top 50 movies and create their network.
+
+[Read Final Report](https://github.com/malialtunsoy/network-of-movies/blob/main/deliverables/Final%20Report.pdf)
