@@ -7,3 +7,12 @@ following:
 - Analyze the directors who shot the top 50 movies and create their network.
 
 [Read Final Report](https://github.com/malialtunsoy/network-of-movies/blob/main/deliverables/Final%20Report.pdf)
+
+## Example Screenshots
+#### Network of Movies with Louvain Algorithm.
+![alt text](https://github.com/malialtunsoy/network-of-movies/blob/main/screenshots/movies-l.png "Network of Movies with Louvain Algorithm.")
+#### Network of Cast with Louvain Algorithm.
+![alt text](https://github.com/malialtunsoy/network-of-movies/blob/main/screenshots/cast-l.png "Network of Cast with Louvain Algorithm.")
+#### Network of Directors with Louvain Algorithm.
+![alt text](https://github.com/malialtunsoy/network-of-movies/blob/main/screenshots/directors-l.png "Network of Directors with Louvain Algorithm.
+")
